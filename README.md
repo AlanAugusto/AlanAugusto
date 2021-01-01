@@ -1,20 +1,16 @@
-### Hi there 👋
+### Hi there, Welcome ! 👋
 
 # Alan Augusto Lima de Oliveira
 
-### 👨🏻‍💻 About Me
-- 🤔   Exploring new technologies and developing software solutions and quick hacks.
-- 🎓   Studying Computer Science.
-- 💼   I'm currently working full-time with awesome peeps at Smart Age Solutions
-- 🌱   Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️   Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- 🌱 Learning more about and studying: Open Source, React, CS Algorithms
-- 💬 Ping me about: wed design, social media, diversity & inclusion, mentorship
-- 💼 Connecting and sharing professional updates on LinkedIn
-- 🛠 Tech Stack
-- 💻   PHP | C | C++ | Python | SQL
-- 🌐   HTML | CSS | JavaScript | TypeScript | Nodejs | Jquery | Bootstrap | Materialize | Linux | VIM | Node.js | ReactJS | VueJS | Angular 7/8/9
-- 🛢   MySQL | MongoDB
-- 🔧   Git | Markdown | Selenium | Tidyverse
-- 🖥   Illustrator| Photoshop | InDesign
+### 👨🏻‍💻 About Myself
+
+- 👀  A very very curious Self-Taught.
+- ✍️  Web Fundamentals Monitor.
+- 🎓  Studying Information Systems at Mackenzie.
+- 🐶  Love 4 Animals. 
+- 🌱  Vegetarian and Eco-Friendly.
+- 🙇  Fascinated about UX and UI Design.
+- 💻  HTML | CSS | Excel | Word | Python | Figma |
+- 💬  Always learning more about, and studying new languages.
+- 💼  I'm currently looking for a job opportunity. 
 
