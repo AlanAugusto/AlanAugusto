@@ -2,7 +2,7 @@
 
 # Alan Augusto Lima de Oliveira
 
-<h4>👨🏻‍💻 About Me<h4>
+### 👨🏻‍💻 About Me
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
 - 🎓   Studying Computer Science.
 - 💼   I'm currently working full-time with awesome peeps at Smart Age Solutions
